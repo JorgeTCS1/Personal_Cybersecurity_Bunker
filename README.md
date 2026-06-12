@@ -1,5 +1,5 @@
 # Personal_Cybersecurity_Bunker
-Implementación integral de seguridad en red doméstica, endopoint inmutable y gestión de identidad.
+Implementación integral de seguridad en red doméstica, endpoint inmutable y gestión de identidad.
 
 Personal Hardening Project 2026
 Secure Infrastructure & Identity Obfuscation
